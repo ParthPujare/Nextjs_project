@@ -1,4 +1,4 @@
-import ActivityCard from "@/components/activitycard"
+import ActivityCard from "../../components/ActivityCard";
 
 export default function Home(){
     return(

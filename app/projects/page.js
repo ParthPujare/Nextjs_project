@@ -1,4 +1,4 @@
-import Card from "@/components/card";
+import Card from "../../components/Card";
 
 export default async function Projects() {
   const res = await fetch("http://localhost:3000/api/projects", { cache: "no-store" });
