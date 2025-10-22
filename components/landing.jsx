@@ -7,7 +7,7 @@ export default function Landing(){
                     <div className="w-48 h-64 sm:w-64 sm:h-80 lg:w-80 lg:h-120 rounded-full border border-gray-400 overflow-hidden" >
                         <img src="profile.jpg" alt="profile image" className="h-full w-full object-cover " />
                     </div>
-                    <div className="text-centre lg:text-left max-w-2xl">
+                    <div className="text-center lg:text-left max-w-2xl">
                         <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold font-mono mt-6 lg:mt-16">Parth Pujare</h1>
                         <h2 className="text-gray-900 text-2xl sm:text-3xl mt-2">A bit about me </h2>
                         <p className="text-gray-600 text-base sm:text-lg mt-3 px-2 lg:px-0">Im a 3rd year student at DJ Sanghvi College Of Engineering. Blending creativity and problem-solving to craft meaningful digital experiences. Driven by learning, inspired by challenges.</p>
